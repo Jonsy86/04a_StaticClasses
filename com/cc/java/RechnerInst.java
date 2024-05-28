@@ -14,7 +14,7 @@ public class RechnerInst {
 		return a*b;
 	}
 	
-	double quotient(double a, double b){
+	double quotient(double a, double b){ // double --> Rechnen mit Kommazahlen
 		return a/b;
 	}
 	

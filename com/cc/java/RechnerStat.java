@@ -2,7 +2,7 @@ package com.cc.java;
 
 public class RechnerStat {
 
-	static int summe(int a, int b){
+	static int summe(int a, int b){ // static bedeutet, dass von dieser Klasse kein Objekt gebildet wird
 		return a+b;
 	}
 	
